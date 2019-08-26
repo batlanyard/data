@@ -1,0 +1,32 @@
+{ "data" : [
+    {
+        "title" : "Song 1",
+        "artist" : "Mr. Big",
+        "audioFile" : "song1.mp3"
+    },
+    {
+        "title" : "Song 2",
+        "artist" : "Journey",
+        "audioFile" : "song2.mp3"
+    },
+    {
+        "title" : "Song 3",
+        "artist" : "Some Band",
+        "audioFile" : "song3.mp3"
+    },
+    {
+        "title" : "Song 4",
+        "artist" : "Dokken",
+        "audioFile" : "song4.mp3"
+    },
+    {
+        "title" : "Song 5",
+        "artist" : "RATT",
+        "audioFile" : "song5.mp3"
+    },
+    {
+        "title" : "Song 6",
+        "artist" : "The Cars",
+        "audioFile" : "song6.mp3"
+    }
+]}
