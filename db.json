@@ -1,32 +1,230 @@
-{ "data" : [
-    {
-        "title" : "Song 1",
-        "artist" : "Mr. Big",
-        "audioFile" : "song1.mp3"
-    },
-    {
-        "title" : "Song 2",
-        "artist" : "Journey",
-        "audioFile" : "song2.mp3"
-    },
-    {
-        "title" : "Song 3",
-        "artist" : "Some Band",
-        "audioFile" : "song3.mp3"
-    },
-    {
-        "title" : "Song 4",
-        "artist" : "Dokken",
-        "audioFile" : "song4.mp3"
-    },
-    {
-        "title" : "Song 5",
-        "artist" : "RATT",
-        "audioFile" : "song5.mp3"
-    },
-    {
-        "title" : "Song 6",
-        "artist" : "The Cars",
-        "audioFile" : "song6.mp3"
-    }
-]}
+[
+  {
+    "category": "classroom",
+    "title": "",
+    "caption": "Classroom",
+    "subtitle": "",
+    "bgimage": "classroom-41.jpg",
+    "members": [
+      {
+        "code": "adreadychairandstool",
+        "url": "ad-ready-chair-stool",
+        "title": "A＆D® Ready® Chair ＆ Stool",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "emojichair",
+        "url": "emoji-chair",
+        "title": "Emoji™️ Chair",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adadjustableheightstudentdesk",
+        "url": "ad-adjustable-height-student-desk",
+        "title": "A＆D® Adjustable Height Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "crossfitstudentdesk",
+        "url": "crossfit-student-desk",
+        "title": "A&amp;D&#174; Crossfit Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adcrossfitfliptopstudentdesk",
+        "url": "ad-crossfit-flip-top-student-desk",
+        "title": "A&amp;D&#174; Crossfit Flip Top Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adcrossfitmotiondesk",
+        "url": "ad-crossfit-motion-desk",
+        "title": "A&amp;D&#174; Crossfit Motion Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adcantileverstudentdesk",
+        "url": "ad-cantilever-student-desk",
+        "title": "A&amp;D&#174; Cantilever Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adklegstudentdesk",
+        "url": "ad-k-leg-student-desk",
+        "title": "A&amp;D&#174; K-Leg Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      }
+    ]
+  },
+  {
+    "category": "makerspace",
+    "title": "",
+    "caption": "Maker Space",
+    "subtitle": "",
+    "bgimage": "maker-3.jpg",
+    "members": [
+      {
+        "code": "adreadychairandstool",
+        "url": "ad-ready-chair-stool",
+        "title": "A&amp;D&#174; Ready&#174; Chair &amp; Stool",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "emojichair",
+        "url": "emoji-chair",
+        "title": "Emoji&#8482; Chair",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adadjustableheightstudentdesk",
+        "url": "ad-adjustable-height-student-desk",
+        "title": "A&amp;D&#174; Adjustable Height Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "crossfitstudentdesk",
+        "url": "crossfit-student-desk",
+        "title": "A&amp;D&#174; Crossfit Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adcrossfitfliptopstudentdesk",
+        "url": "ad-crossfit-flip-top-student-desk",
+        "title": "A&amp;D&#174; Crossfit Flip Top Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adcrossfitmotiondesk",
+        "url": "ad-crossfit-motion-desk",
+        "title": "A&amp;D&#174; Crossfit Motion Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adcantileverstudentdesk",
+        "url": "ad-cantilever-student-desk",
+        "title": "A&amp;D&#174; Cantilever Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adklegstudentdesk",
+        "url": "ad-k-leg-student-desk",
+        "title": "A&amp;D&#174; K-Leg Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      }
+    ]
+  },
+  {
+    "category": "library",
+    "title": "",
+    "caption": "Library",
+    "subtitle": "",
+    "bgimage": "lr-5.jpg",
+    "members": [
+      {
+        "code": "adreadychairandstool",
+        "url": "ad-ready-chair-stool",
+        "title": "A&amp;D&#174; Ready&#174; Chair &amp; Stool",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "emojichair",
+        "url": "emoji-chair",
+        "title": "Emoji&#8482; Chair",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adadjustableheightstudentdesk",
+        "url": "ad-adjustable-height-student-desk",
+        "title": "A&amp;D&#174; Adjustable Height Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "crossfitstudentdesk",
+        "url": "crossfit-student-desk",
+        "title": "A&amp;D&#174; Crossfit Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adcrossfitfliptopstudentdesk",
+        "url": "ad-crossfit-flip-top-student-desk",
+        "title": "A&amp;D&#174; Crossfit Flip Top Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adcrossfitmotiondesk",
+        "url": "ad-crossfit-motion-desk",
+        "title": "A&amp;D&#174; Crossfit Motion Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adcantileverstudentdesk",
+        "url": "ad-cantilever-student-desk",
+        "title": "A&amp;D&#174; Cantilever Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adklegstudentdesk",
+        "url": "ad-k-leg-student-desk",
+        "title": "A&amp;D&#174; K-Leg Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      }
+    ]
+  },
+  {
+    "category": "cafeandlounge",
+    "title": "",
+    "caption": "CafÉ and Lounge",
+    "subtitle": "Encourage Interactive Learning Outside The Classroom",
+    "bgimage": "motiv-living-room-3.jpg",
+    "members": [
+      {
+        "code": "adreadychairandstool",
+        "url": "ad-ready-chair-stool",
+        "title": "A&amp;D&#174; Ready&#174; Chair &amp; Stool",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "emojichair",
+        "url": "emoji-chair",
+        "title": "Emoji&#8482; Chair",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adadjustableheightstudentdesk",
+        "url": "ad-adjustable-height-student-desk",
+        "title": "A&amp;D&#174; Adjustable Height Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "crossfitstudentdesk",
+        "url": "crossfit-student-desk",
+        "title": "A&amp;D&#174; Crossfit Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adcrossfitfliptopstudentdesk",
+        "url": "ad-crossfit-flip-top-student-desk",
+        "title": "A&amp;D&#174; Crossfit Flip Top Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adcrossfitmotiondesk",
+        "url": "ad-crossfit-motion-desk",
+        "title": "A&amp;D&#174; Crossfit Motion Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adcantileverstudentdesk",
+        "url": "ad-cantilever-student-desk",
+        "title": "A&amp;D&#174; Cantilever Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      },
+      {
+        "code": "adklegstudentdesk",
+        "url": "ad-k-leg-student-desk",
+        "title": "A&amp;D&#174; K-Leg Student Desk",
+        "image": "../assets/ready-4-leg-glides-clipped.png"
+      }
+    ]
+  }
+]
