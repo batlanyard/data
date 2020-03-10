@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "songs": [
+        {
+          "album": "001",
+          "copyright": "Copyright 2020 Teddev Music/ASCAP. All rights reserved.",
+          "credits": [
+            "Produced and Engineered by Matt Thompson and Nick Davis",
+            "Nick Davis: guitars",
+            "Matt Thompson: bass, keys, programming"
+          ],
+          "num": "01",
+          "objectId": "14mZewr2nJ",
+          "fileext": "mp3",
+          "filename": "that-explains-it",
+          "stitle": "THAT EXPLAINS IT",
+          "font_blue": "64",
+          "font_green": "69",
+          "font_red": "90",
+          "red": "69",
+          "green": "188",
+          "blue": "186",
+          "lyrics": [
+            "V1",
+            "twenty-four seconds late",
+            "i'm the fire to your escape",
+            "",
+            "CH",
+            "just because your lover",
+            "found another lover again",
+            "that explains it",
+            "V2",
+            "placeholder for verse two",
+            "nothing like being used",
+            "",
+            "CH",
+            "i plan a plan... the worst",
+            "",
+            "BR",
+            "and in the eighties you were",
+            "saved by zero",
+            "",
+            "Words and Music by Davis/Thompson.",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "media": [
+        {
+          "mediatype": "video",
+          "url": "",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
